@@ -37,7 +37,7 @@ Before you can run or deploy the sample, you need to install:
 
 #### Run tests
 
-    npm run test
+    npm test
     
 #### Run locally
     
